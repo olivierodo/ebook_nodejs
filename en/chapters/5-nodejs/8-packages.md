@@ -46,7 +46,7 @@ It's a very interesting solution, especially to have only one git repo but still
 - [Simplify your monorepo with npm 7 workspaces](https://dev.to/limal/simplify-your-monorepo-with-npm-7-workspaces-5gmj)
 - [npm Workspaces (RFC)](https://github.com/npm/rfcs/blob/latest/implemented/0026-workspaces.md)
 - [Workspaces in Yarn](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
-- [pnpm Workspace](https://pnpm.js.org/en/workspaces)
+- [pnpm Workspace](https://pnpm.io/workspaces)
 - [🐉 A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna)
 
 I am just starting to use them for different projects, so I will complete the section in the next few months.
