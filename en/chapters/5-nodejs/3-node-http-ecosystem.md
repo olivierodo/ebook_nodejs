@@ -116,7 +116,7 @@ If you rather want to specialize in the back-end then I recommend you to look at
 - [Intro to Fastify - Matteo Collina](https://www.youtube.com/watch?v=FQu8FnTzOR0&feature=emb_logo) (podcast [bonus here](https://webrush.io/episodes/episode-96-expressway-to-fastify-with-matteo-collina)).
 - [Adonis 5 Tour - Romain Lanz](https://www.youtube.com/watch?v=TysfaNcFX_Y&feature=emb_logo)
 
-👀 A recent article by Snyk talks about [the success of Fastify](https://snyk.io/advisor/hub/what-makes-fastify-a-successful-project/).
+👀 A recent article by Snyk talks about [the success of Fastify](https://snyk.io/blog/what-makes-fastify-a-successful-project/).
 
 If you are rather a purist or a low level developer and you like to master everything from A to Z, then it is likely that the small-scope family is for you. It may be interesting for you to explore the different solutions (even if they are not necessarily mainstream).
 
