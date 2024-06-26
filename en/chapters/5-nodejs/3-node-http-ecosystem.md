@@ -76,7 +76,7 @@ You will certainly gain in productivity in the long run (especially if you often
 
 As for the Small-scope, these are purely back-end frameworks. The list of "serious" frameworks is nevertheless quite short because it is really very difficult to build and maintain such projects in the long term:
 
-- [Adonis.js](https://adonisjs.com/) (I also recommend you to read the page [Why Adonis.js ?](https://preview.adonisjs.com/why-adonisjs))
+- [Adonis.js](https://adonisjs.com/) (I also recommend you to read the page [Why Adonis.js ?](https://adonisjs.com/about))
 - [Nest.js](https://nestjs.com/)
 
 ⚠️ **Be careful** because nowadays many old frameworks that are not really maintained anymore are still actively recommended:
