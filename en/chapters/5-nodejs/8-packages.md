@@ -21,7 +21,7 @@ If you have the opportunity or an idea of packages then I strongly recommend you
 
 - [Getting started NPM](https://docs.npmjs.com/getting-started)
 - [NodeSchool - How to NPM](https://github.com/workshopper/how-to-npm)
-- [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
+- [An introduction to the npm package manager](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager#packages)
 - [CJ Silverio, CTO of npm](https://www.youtube.com/watch?v=HH3aNjjhMg8)
 - [npm and the Future of JavaScript - Laurie Voss, npm, Inc.](https://www.youtube.com/watch?v=0PU-4GGLzGg)
 - [Radical Modularity - Aria Stewart, npm, Inc.](https://www.youtube.com/watch?v=SsIdWFtp2QA)
