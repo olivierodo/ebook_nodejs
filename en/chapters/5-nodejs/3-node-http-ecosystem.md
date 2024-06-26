@@ -9,7 +9,7 @@ It is quite common for new developers to start with [express](https://expressjs.
 
 <img src="./../../../assets/nodejs/download-framework.png" alt="download framework" width="600"/>
 
-However [it's not necessarily the best choice](https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711) because the team behind **express** hardly maintains the framework! (**a V5 expected for six years** 🙊) Moreover, many of the patterns they recommend are completely outdated (still no async/await support ...). You'll be writing code that doesn't include any of the modern practices.
+However [it's not necessarily the best choice](https://dev.to/ronanru/stop-using-expressjs-in-202-3kc) because the team behind **express** hardly maintains the framework! (**a V5 expected for six years** 🙊) Moreover, many of the patterns they recommend are completely outdated (still no async/await support ...). You'll be writing code that doesn't include any of the modern practices.
 
 **So how do we choose the right framework?** Well, we should already try to segment these frameworks by family to better understand and discuss the different trade-offs that each solution implies.
 
